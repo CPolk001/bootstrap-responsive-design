@@ -1,16 +1,29 @@
 /* ADD YOUR CUSTOM CSS TO THIS FILE */
 
+.col-md-8
+	{
+		background-color: #ce2029;
+		color: #fff;
+}
+
 .col-md-4
 	{
 		background-color: #ce2029;
-	}
+		color: #fff;
+}
 
-.row
+.nav-link
 	{
-		background-color: hotpink;
-	}
+		color: #fff;
+}
 
-.page-link
+.hero
 	{
-		background-color: black;
-	}
+		background-image: url("hero.jpg");
+}
+
+.mainbody
+	{
+			background-color: #ce2029;
+			color: #fff;
+}
