@@ -2,13 +2,19 @@
 
 .col-md-8
 	{
-		background-color: #ce2029;
+		background-color: #82080E;
 		color: #fff;
 }
 
 .col-md-4
 	{
-		background-color: #ce2029;
+		background-color: #82080E;
+		color: #fff;
+}
+
+.col-md-6
+	{
+		background-color: #013E37;
 		color: #fff;
 }
 
@@ -19,11 +25,42 @@
 
 .hero
 	{
-		background-image: url("hero.jpg");
+		background-color: #82080E;
 }
 
-.mainbody
+#pagetitle
 	{
-			background-color: #ce2029;
-			color: #fff;
+		padding-top: 5px;
+}
+
+#hrsqhero
+	{
+		background-color: #013E37;
+}
+
+#mainbody
+	{
+		background-color: #82080E;
+		color: #fff;
+		padding-top: 50px;
+		padding-bottom: 50px;
+}
+
+#body2
+	{
+		background-color: #000;
+		color: #fff;
+		padding-top: 10px;
+		padding-bottom: 10px;
+}
+
+#station
+	{
+		text-align: center;
+}
+
+#resbod
+	{
+		background-color: #013E37;
+		color: #E0A864;
 }
