@@ -28,6 +28,14 @@
 		background-color: #82080E;
 }
 
+.mainbody
+	{
+		background-color: #82080E;
+		color: #fff;
+		padding-top: 50px;
+		padding-bottom: 50px;
+}
+
 #pagetitle
 	{
 		padding-top: 5px;
@@ -38,7 +46,7 @@
 		background-color: #013E37;
 }
 
-#mainbody
+#mainbody,#mainbody2
 	{
 		background-color: #82080E;
 		color: #fff;
@@ -52,6 +60,7 @@
 		color: #fff;
 		padding-top: 10px;
 		padding-bottom: 10px;
+		font-size: 10px;
 }
 
 #station
@@ -63,4 +72,12 @@
 	{
 		background-color: #013E37;
 		color: #E0A864;
+		padding-top: 50px;
+		padding-bottom: 50px;
+}
+
+#footer
+	{
+		background-color: #000;
+		text-align: center;
 }
