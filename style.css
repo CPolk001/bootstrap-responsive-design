@@ -2,20 +2,23 @@
 
 .col-md-8
 	{
-		background-color: #82080E;
-		color: #fff;
+	background-color: #82080E;
+	color: #fff;
+	font-family: 'Source Serif 4', serif;
 }
 
 .col-md-4
 	{
 		background-color: #82080E;
 		color: #fff;
+		font-family: 'Source Serif 4', serif;
 }
 
 .col-md-6
 	{
-		background-color: #013E37;
+		background-color: #82080E;
 		color: #fff;
+		font-family: 'Source Serif 4', serif;
 }
 
 .nav-link
@@ -28,22 +31,56 @@
 		background-color: #82080E;
 }
 
-.mainbody
+.mainbody,.mainbody2
 	{
 		background-color: #82080E;
 		color: #fff;
 		padding-top: 50px;
 		padding-bottom: 50px;
+		font-family: 'Source Serif 4', serif;
+}
+
+.map
+	{
+	text-align: right;
+}
+
+.fa 
+	{
+  padding: 10px;
+  font-size: 15px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover 
+	{
+    opacity: 0.7;
+}
+
+.fa-facebook 
+	{
+  background: #82080E;
+  color: #fff;
+}
+
+.fa-instagram 
+	{
+  background: #82080E;
+  color: #fff;
+}
+
+.fa-twitter {
+  background: #82080E;
+  color: #fff;
 }
 
 #pagetitle
 	{
 		padding-top: 5px;
-}
-
-#hrsqhero
-	{
-		background-color: #013E37;
+		font-family: 'Source Serif 4', serif;
 }
 
 #mainbody,#mainbody2
@@ -52,6 +89,7 @@
 		color: #fff;
 		padding-top: 50px;
 		padding-bottom: 50px;
+		font-family: 'Source Serif 4', serif;
 }
 
 #body2
@@ -60,7 +98,8 @@
 		color: #fff;
 		padding-top: 10px;
 		padding-bottom: 10px;
-		font-size: 10px;
+		font-size: 15px;
+		font-family: 'Source Serif 4', serif;
 }
 
 #station
@@ -68,16 +107,48 @@
 		text-align: center;
 }
 
-#resbod
-	{
-		background-color: #013E37;
-		color: #E0A864;
-		padding-top: 50px;
-		padding-bottom: 50px;
-}
-
 #footer
 	{
 		background-color: #000;
 		text-align: center;
+}
+
+/* mouse over link */
+a.otherlinks:link {
+  color: #82080E;
+}
+
+/* visited link */
+a.otherlinks:visited {
+  color: #82080E;
+}
+
+/* mouse over link */
+a.otherlinks:hover {
+  color: #fff;
+}
+
+/* selected link */
+a.otherlinks:active {
+  color: #46F2AB;
+}
+
+/* mouse over link */
+a.pagelinks:link {
+  color: #000;
+}
+
+/* visited link */
+a.pagelinks:visited {
+  color: #000;
+}
+
+/* mouse over link */
+a.pagelinks:hover {
+  color: #fff;
+}
+
+/* selected link */
+a.pagelinks:active {
+  color: #46F2AB;
 }

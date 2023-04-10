@@ -1,0 +1,106 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE */
+
+.col-md-6
+	{
+		background-color: #013E37;
+		color: #fff;
+		font-family: 'Tiro Tamil', serif;
+}
+
+.nav-link
+	{
+		color: #E0A864;
+}
+
+.map
+	{
+		text-align: right;
+}
+
+.fa 
+	{
+  padding: 10px;
+  font-size: 15px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover 
+	{
+    opacity: 0.7;
+}
+
+.fa-facebook 
+	{
+  background: #013E37;
+  color: #E0A864;
+}
+
+.fa-instagram 
+	{
+  background: #013E37;
+  color: #E0A864;
+}
+
+.resbod
+	{
+		background-color: #013E37;
+		color: #E0A864;
+		padding-top: 50px;
+		padding-bottom: 50px;
+		font-family: 'Tiro Tamil', serif;
+}
+
+.resbod2
+	{
+		background-color: #013E37;
+		color: #E0A864;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		font-family: 'Tiro Tamil', serif;
+}
+
+#pagetitle
+	{
+		padding-top: 5px;
+		color: #E0A864;
+}
+
+#hrsqhero
+	{
+		background-color: #013E37;
+}
+
+#station
+	{
+		text-align: center;
+}
+
+#resfooter
+	{
+		background-color: #E0A864;
+		padding-top: 5px;
+		padding-bottom: 5px;
+}
+
+/* mouse over link */
+a.pagelinks:link {
+  color: #000;
+}
+
+/* visited link */
+a.pagelinks:visited {
+  color: #000;
+}
+
+/* mouse over link */
+a.pagelinks:hover {
+  color: #fff;
+}
+
+/* selected link */
+a.pagelinks:active {
+  color: #46F2AB;
+}
